@@ -11,5 +11,4 @@ public class ExpressTest {
 		Student s=con.getBean("student", Student.class);
 		System.out.println(s);
 	}
-
 }
